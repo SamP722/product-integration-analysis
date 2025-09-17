@@ -61,4 +61,6 @@ These findings are illustrative only, based on generated data, and are meant to 
 
 ---
 
-This project is entirely fictional and created for educational purposes.
+
+>**Note:** Final cleaned versions of Jupyter notebooks will be added soon. Current notebooks contain draft-level code and exploratory analysis in progress.
+
