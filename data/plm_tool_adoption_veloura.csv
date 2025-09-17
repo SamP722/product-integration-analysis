@@ -1,0 +1,501 @@
+user_id,team,role,feature_used,week_1_usage,week_4_usage,tasks_completed,process_delay,feedback_score
+U0000,Sourcing,Supplier Manager,No,2,2,4,4,3.6
+U0001,Production,Production Assistant,Yes,4,7,15,2,4.7
+U0002,Merchandising,Merchandising Manager,Yes,4,6,8,0,4.1
+U0003,Production,Production Manager,Yes,2,5,10,1,4.2
+U0004,Merchandising,Buyer,Yes,10,15,17,0,4.3
+U0005,Product Development,Senior Developer,No,3,3,2,5,3.4
+U0006,Sourcing,Sourcing Coordinator,Yes,2,7,18,2,4.4
+U0007,Sourcing,Supplier Manager,Yes,2,3,11,0,4.9
+U0008,Production,Production Assistant,Yes,5,6,6,1,4.5
+U0009,Merchandising,Buyer,No,1,1,7,2,4.0
+U0010,Product Development,Assistant Developer,Yes,0,2,15,0,5.0
+U0011,Merchandising,Merchandising Manager,Yes,3,5,7,0,4.2
+U0012,Product Development,Assistant Developer,No,2,2,9,2,4.1
+U0013,Product Development,Developer,No,2,2,8,3,3.9
+U0014,Production,Production Assistant,Yes,5,5,8,3,3.7
+U0015,Production,Production Assistant,Yes,5,11,6,0,4.3
+U0016,Production,Production Manager,No,3,7,4,2,3.6
+U0017,Product Development,Developer,Yes,6,11,7,1,4.0
+U0018,Sourcing,Supplier Manager,Yes,8,10,5,3,4.3
+U0019,Product Development,Senior Developer,No,2,3,9,3,3.8
+U0020,Product Development,Developer,No,2,4,4,3,3.6
+U0021,Product Development,Assistant Developer,No,1,5,2,5,3.7
+U0022,Product Development,Assistant Developer,Yes,3,7,18,0,4.4
+U0023,Product Development,Developer,No,1,3,6,4,3.6
+U0024,Production,Production Manager,Yes,8,9,9,1,4.0
+U0025,Merchandising,Buyer,Yes,8,10,9,1,5.0
+U0026,Product Development,Assistant Developer,Yes,1,4,9,2,4.1
+U0027,Product Development,Senior Developer,Yes,3,12,16,1,3.5
+U0028,Sourcing,Supplier Manager,Yes,7,8,6,2,4.8
+U0029,Product Development,Developer,Yes,6,11,7,3,3.8
+U0030,Production,Production Manager,Yes,7,10,7,0,4.1
+U0031,Production,Production Manager,Yes,3,8,9,1,4.7
+U0032,Merchandising,Merchandising Manager,No,0,2,8,5,3.9
+U0033,Product Development,Assistant Developer,No,1,2,3,2,3.7
+U0034,Product Development,Assistant Developer,Yes,8,11,18,2,4.1
+U0035,Merchandising,Buyer,No,4,5,2,5,2.9
+U0036,Product Development,Developer,Yes,4,8,19,0,4.0
+U0037,Product Development,Assistant Developer,Yes,5,6,14,3,3.9
+U0038,Production,Production Manager,Yes,3,4,13,0,5.0
+U0039,Production,Production Assistant,Yes,5,8,10,0,3.7
+U0040,Merchandising,Merchandising Manager,Yes,8,17,18,0,4.3
+U0041,Merchandising,Planner,Yes,6,11,19,2,4.5
+U0042,Sourcing,Sourcing Coordinator,Yes,3,6,19,1,4.4
+U0043,Production,Production Assistant,Yes,7,11,7,2,3.4
+U0044,Product Development,Senior Developer,Yes,3,7,14,2,4.0
+U0045,Product Development,Developer,Yes,5,7,18,2,4.1
+U0046,Sourcing,Supplier Manager,Yes,4,7,12,1,4.6
+U0047,Sourcing,Sourcing Coordinator,Yes,4,6,13,0,3.9
+U0048,Sourcing,Supplier Manager,Yes,6,10,13,0,4.9
+U0049,Merchandising,Merchandising Manager,Yes,4,5,15,1,3.8
+U0050,Merchandising,Buyer,Yes,5,10,7,1,4.3
+U0051,Production,Production Manager,Yes,5,7,9,1,4.6
+U0052,Sourcing,Sourcing Coordinator,Yes,3,5,6,3,4.6
+U0053,Product Development,Assistant Developer,Yes,6,9,12,3,3.8
+U0054,Merchandising,Planner,Yes,3,8,12,3,3.5
+U0055,Sourcing,Sourcing Coordinator,Yes,8,11,19,2,3.9
+U0056,Product Development,Assistant Developer,Yes,5,5,10,1,4.5
+U0057,Product Development,Developer,No,0,1,9,4,3.6
+U0058,Product Development,Assistant Developer,Yes,2,8,10,3,3.6
+U0059,Sourcing,Supplier Manager,No,1,1,9,5,3.3
+U0060,Sourcing,Supplier Manager,Yes,5,6,18,3,4.2
+U0061,Merchandising,Buyer,Yes,5,9,8,0,4.1
+U0062,Merchandising,Merchandising Manager,No,3,3,4,4,3.7
+U0063,Production,Production Manager,Yes,4,10,11,0,3.7
+U0064,Production,Production Assistant,Yes,7,11,18,1,4.2
+U0065,Production,Production Assistant,Yes,10,13,9,2,4.4
+U0066,Sourcing,Sourcing Coordinator,Yes,9,11,9,2,4.8
+U0067,Product Development,Senior Developer,Yes,3,8,14,1,4.7
+U0068,Production,Production Manager,Yes,7,10,14,1,4.4
+U0069,Product Development,Senior Developer,No,3,4,5,4,3.7
+U0070,Product Development,Developer,Yes,5,10,10,2,4.2
+U0071,Production,Production Assistant,No,4,5,8,5,4.0
+U0072,Sourcing,Sourcing Coordinator,No,2,3,2,2,3.1
+U0073,Product Development,Senior Developer,Yes,2,2,7,1,3.6
+U0074,Merchandising,Buyer,Yes,6,16,14,2,4.3
+U0075,Product Development,Senior Developer,Yes,4,5,17,1,4.1
+U0076,Sourcing,Supplier Manager,Yes,8,12,10,0,4.4
+U0077,Product Development,Developer,No,3,3,3,5,4.2
+U0078,Production,Production Assistant,Yes,1,2,16,0,3.7
+U0079,Product Development,Developer,Yes,3,8,9,1,4.5
+U0080,Sourcing,Sourcing Coordinator,Yes,5,11,12,3,4.1
+U0081,Sourcing,Sourcing Coordinator,Yes,2,7,8,1,4.5
+U0082,Product Development,Assistant Developer,Yes,7,11,17,0,4.3
+U0083,Product Development,Assistant Developer,No,1,1,4,2,3.4
+U0084,Production,Production Manager,Yes,4,12,12,3,4.6
+U0085,Product Development,Assistant Developer,Yes,5,7,18,2,4.5
+U0086,Sourcing,Supplier Manager,No,2,2,7,4,3.5
+U0087,Sourcing,Supplier Manager,Yes,6,10,6,3,4.3
+U0088,Sourcing,Supplier Manager,No,0,1,3,5,3.3
+U0089,Product Development,Senior Developer,Yes,4,7,13,2,4.5
+U0090,Sourcing,Sourcing Coordinator,No,3,3,4,2,3.7
+U0091,Product Development,Senior Developer,No,2,2,7,4,3.6
+U0092,Merchandising,Planner,Yes,6,7,15,1,4.2
+U0093,Product Development,Assistant Developer,No,2,2,8,2,3.5
+U0094,Merchandising,Planner,Yes,3,6,6,1,4.1
+U0095,Sourcing,Supplier Manager,Yes,5,7,10,1,3.3
+U0096,Production,Production Manager,Yes,5,9,14,1,4.4
+U0097,Product Development,Senior Developer,No,3,7,8,4,3.6
+U0098,Sourcing,Supplier Manager,Yes,4,9,7,2,5.0
+U0099,Product Development,Senior Developer,Yes,2,6,7,2,4.2
+U0100,Product Development,Assistant Developer,Yes,6,11,14,0,4.9
+U0101,Sourcing,Supplier Manager,No,3,4,6,4,2.9
+U0102,Product Development,Senior Developer,No,3,4,7,2,3.1
+U0103,Product Development,Senior Developer,Yes,5,6,5,3,4.2
+U0104,Production,Production Manager,Yes,5,7,12,2,3.8
+U0105,Sourcing,Sourcing Coordinator,Yes,7,9,14,0,3.7
+U0106,Product Development,Senior Developer,Yes,2,7,13,1,4.3
+U0107,Production,Production Assistant,Yes,3,6,9,0,4.5
+U0108,Sourcing,Supplier Manager,Yes,6,10,13,1,4.4
+U0109,Sourcing,Supplier Manager,No,2,2,9,3,3.8
+U0110,Sourcing,Sourcing Coordinator,No,2,2,4,5,4.0
+U0111,Production,Production Manager,Yes,7,11,5,0,4.6
+U0112,Production,Production Assistant,Yes,2,10,9,1,3.6
+U0113,Production,Production Assistant,Yes,7,10,17,1,4.4
+U0114,Sourcing,Supplier Manager,Yes,6,11,16,1,4.1
+U0115,Sourcing,Supplier Manager,No,2,2,7,2,3.7
+U0116,Production,Production Manager,Yes,1,6,13,0,4.4
+U0117,Product Development,Developer,Yes,7,8,16,1,4.4
+U0118,Product Development,Senior Developer,Yes,3,6,13,1,4.6
+U0119,Merchandising,Merchandising Manager,Yes,2,7,8,3,3.7
+U0120,Product Development,Assistant Developer,Yes,7,11,14,2,3.7
+U0121,Sourcing,Supplier Manager,Yes,6,9,16,3,3.8
+U0122,Production,Production Assistant,No,1,1,6,5,3.5
+U0123,Product Development,Developer,Yes,3,6,5,2,4.6
+U0124,Merchandising,Planner,Yes,4,11,19,0,4.3
+U0125,Sourcing,Supplier Manager,No,4,5,3,4,3.5
+U0126,Merchandising,Buyer,No,2,5,7,3,3.5
+U0127,Product Development,Developer,Yes,2,6,17,2,3.8
+U0128,Merchandising,Buyer,Yes,1,1,6,3,3.8
+U0129,Product Development,Senior Developer,Yes,5,6,16,1,3.7
+U0130,Merchandising,Merchandising Manager,Yes,5,10,17,2,3.8
+U0131,Merchandising,Merchandising Manager,No,1,2,7,3,2.8
+U0132,Sourcing,Sourcing Coordinator,No,1,1,6,3,3.1
+U0133,Production,Production Assistant,Yes,3,6,8,0,4.3
+U0134,Merchandising,Buyer,No,5,5,3,3,4.4
+U0135,Merchandising,Merchandising Manager,Yes,6,6,12,0,4.1
+U0136,Sourcing,Sourcing Coordinator,Yes,2,9,14,0,4.8
+U0137,Production,Production Manager,Yes,5,6,8,1,4.4
+U0138,Production,Production Manager,Yes,6,10,14,2,4.4
+U0139,Product Development,Assistant Developer,Yes,5,6,9,2,3.9
+U0140,Merchandising,Buyer,No,4,7,4,5,3.6
+U0141,Merchandising,Planner,No,0,1,3,4,3.5
+U0142,Sourcing,Sourcing Coordinator,Yes,5,6,16,2,4.2
+U0143,Production,Production Manager,Yes,7,13,14,1,4.7
+U0144,Merchandising,Buyer,No,0,3,8,4,3.6
+U0145,Merchandising,Merchandising Manager,Yes,6,9,11,2,3.0
+U0146,Production,Production Assistant,Yes,5,9,10,3,4.7
+U0147,Merchandising,Planner,No,2,2,8,2,3.2
+U0148,Merchandising,Merchandising Manager,Yes,8,12,13,3,3.7
+U0149,Product Development,Senior Developer,Yes,6,11,10,1,3.8
+U0150,Production,Production Manager,No,3,3,5,5,3.7
+U0151,Production,Production Assistant,No,0,0,7,3,3.3
+U0152,Production,Production Assistant,Yes,6,7,8,1,3.3
+U0153,Sourcing,Supplier Manager,No,0,2,8,2,3.9
+U0154,Merchandising,Buyer,Yes,5,10,6,0,4.0
+U0155,Sourcing,Supplier Manager,Yes,4,6,10,1,4.0
+U0156,Product Development,Developer,Yes,7,10,19,0,4.0
+U0157,Production,Production Manager,Yes,7,9,13,3,4.0
+U0158,Merchandising,Merchandising Manager,No,2,4,4,2,2.8
+U0159,Production,Production Assistant,Yes,8,12,5,2,4.4
+U0160,Production,Production Manager,No,1,2,7,4,3.6
+U0161,Merchandising,Merchandising Manager,No,4,6,4,2,3.6
+U0162,Product Development,Senior Developer,Yes,5,9,19,3,3.5
+U0163,Merchandising,Buyer,No,1,3,6,4,3.3
+U0164,Production,Production Manager,Yes,9,12,11,1,4.1
+U0165,Production,Production Assistant,Yes,5,12,5,1,4.5
+U0166,Sourcing,Sourcing Coordinator,Yes,5,7,13,3,4.4
+U0167,Sourcing,Supplier Manager,No,4,6,8,2,3.6
+U0168,Production,Production Assistant,No,0,2,7,2,3.5
+U0169,Product Development,Developer,Yes,3,9,17,1,4.2
+U0170,Product Development,Developer,Yes,5,8,7,0,3.9
+U0171,Sourcing,Supplier Manager,Yes,6,9,12,1,4.3
+U0172,Sourcing,Sourcing Coordinator,No,1,2,6,5,3.8
+U0173,Sourcing,Supplier Manager,Yes,7,8,12,2,4.4
+U0174,Production,Production Manager,Yes,4,8,15,2,4.1
+U0175,Production,Production Assistant,Yes,7,13,18,0,4.3
+U0176,Sourcing,Sourcing Coordinator,Yes,6,10,6,2,4.8
+U0177,Sourcing,Sourcing Coordinator,Yes,3,6,7,3,4.8
+U0178,Merchandising,Buyer,Yes,4,6,11,3,4.7
+U0179,Merchandising,Merchandising Manager,Yes,9,12,8,3,4.5
+U0180,Product Development,Senior Developer,Yes,2,6,7,2,4.8
+U0181,Sourcing,Sourcing Coordinator,Yes,6,10,14,2,4.1
+U0182,Merchandising,Buyer,No,2,2,6,3,3.5
+U0183,Product Development,Developer,Yes,5,6,10,3,4.3
+U0184,Product Development,Assistant Developer,Yes,4,8,9,3,4.4
+U0185,Product Development,Senior Developer,Yes,9,10,5,0,4.8
+U0186,Production,Production Manager,Yes,7,11,7,1,4.3
+U0187,Production,Production Manager,Yes,4,10,19,2,4.5
+U0188,Production,Production Assistant,No,1,3,9,5,3.7
+U0189,Merchandising,Planner,No,0,1,4,4,2.3
+U0190,Merchandising,Buyer,Yes,4,5,7,1,4.7
+U0191,Sourcing,Supplier Manager,Yes,10,11,8,1,4.5
+U0192,Sourcing,Supplier Manager,Yes,4,7,6,1,4.2
+U0193,Merchandising,Buyer,No,2,3,9,3,2.9
+U0194,Sourcing,Sourcing Coordinator,Yes,4,7,11,2,4.2
+U0195,Production,Production Manager,Yes,5,8,16,2,4.7
+U0196,Sourcing,Supplier Manager,No,3,3,2,3,3.8
+U0197,Merchandising,Buyer,No,2,3,5,4,3.9
+U0198,Product Development,Assistant Developer,Yes,9,9,17,0,4.0
+U0199,Product Development,Assistant Developer,No,1,1,5,4,3.7
+U0200,Product Development,Developer,Yes,5,7,18,2,4.1
+U0201,Product Development,Assistant Developer,Yes,7,9,11,3,4.2
+U0202,Merchandising,Merchandising Manager,Yes,6,7,14,0,4.6
+U0203,Merchandising,Planner,Yes,1,3,19,1,4.1
+U0204,Product Development,Developer,Yes,5,7,16,2,4.0
+U0205,Sourcing,Supplier Manager,Yes,4,7,9,3,4.4
+U0206,Product Development,Senior Developer,No,4,4,4,5,3.6
+U0207,Product Development,Developer,Yes,5,10,14,3,4.5
+U0208,Sourcing,Supplier Manager,No,2,5,4,4,4.0
+U0209,Product Development,Senior Developer,Yes,5,8,14,0,3.9
+U0210,Merchandising,Planner,Yes,8,11,19,3,4.0
+U0211,Production,Production Assistant,Yes,6,7,10,3,4.4
+U0212,Production,Production Assistant,No,2,4,3,5,3.2
+U0213,Merchandising,Planner,Yes,10,14,15,0,4.7
+U0214,Product Development,Senior Developer,No,0,1,8,4,3.5
+U0215,Product Development,Assistant Developer,Yes,2,3,14,1,4.5
+U0216,Product Development,Developer,No,2,6,4,4,3.2
+U0217,Product Development,Assistant Developer,Yes,6,9,14,3,4.6
+U0218,Product Development,Assistant Developer,No,3,3,9,4,3.3
+U0219,Merchandising,Planner,Yes,5,10,9,3,4.3
+U0220,Production,Production Assistant,No,2,3,7,2,3.2
+U0221,Sourcing,Supplier Manager,Yes,3,7,14,1,4.6
+U0222,Merchandising,Buyer,No,1,1,9,4,3.8
+U0223,Merchandising,Planner,Yes,3,5,14,1,4.0
+U0224,Product Development,Assistant Developer,Yes,5,12,11,0,4.1
+U0225,Sourcing,Sourcing Coordinator,Yes,9,12,7,2,4.6
+U0226,Production,Production Assistant,Yes,8,12,7,2,3.9
+U0227,Merchandising,Planner,Yes,6,9,12,3,4.2
+U0228,Product Development,Assistant Developer,Yes,6,8,13,2,4.1
+U0229,Merchandising,Merchandising Manager,Yes,10,10,18,0,4.4
+U0230,Merchandising,Planner,Yes,5,6,7,1,5.0
+U0231,Merchandising,Buyer,Yes,4,7,6,1,4.3
+U0232,Product Development,Developer,No,2,4,4,5,3.4
+U0233,Product Development,Senior Developer,Yes,1,4,5,0,3.9
+U0234,Product Development,Senior Developer,Yes,7,7,10,1,4.4
+U0235,Sourcing,Sourcing Coordinator,Yes,3,7,12,2,4.2
+U0236,Product Development,Assistant Developer,No,1,1,2,3,3.1
+U0237,Production,Production Assistant,Yes,9,13,7,1,4.0
+U0238,Merchandising,Planner,No,2,3,2,3,3.4
+U0239,Product Development,Developer,Yes,5,8,8,1,4.9
+U0240,Production,Production Assistant,Yes,6,7,9,0,4.5
+U0241,Sourcing,Sourcing Coordinator,No,1,1,5,5,3.1
+U0242,Production,Production Assistant,Yes,8,12,13,1,4.4
+U0243,Merchandising,Planner,No,5,5,6,4,4.7
+U0244,Product Development,Developer,Yes,8,11,19,3,3.9
+U0245,Merchandising,Merchandising Manager,Yes,2,6,18,0,4.4
+U0246,Sourcing,Sourcing Coordinator,Yes,7,9,12,1,3.9
+U0247,Merchandising,Planner,Yes,12,16,10,0,4.3
+U0248,Sourcing,Supplier Manager,Yes,3,5,6,3,4.3
+U0249,Sourcing,Sourcing Coordinator,No,4,5,6,4,3.3
+U0250,Merchandising,Planner,Yes,5,5,19,2,4.2
+U0251,Merchandising,Buyer,No,2,2,9,2,3.8
+U0252,Production,Production Manager,Yes,5,8,19,3,3.9
+U0253,Production,Production Assistant,Yes,8,12,14,3,4.2
+U0254,Sourcing,Sourcing Coordinator,Yes,5,9,18,0,4.2
+U0255,Merchandising,Planner,Yes,9,11,17,0,4.8
+U0256,Production,Production Assistant,No,4,6,6,3,3.6
+U0257,Product Development,Developer,No,6,7,9,2,3.3
+U0258,Product Development,Assistant Developer,No,3,3,6,4,3.6
+U0259,Production,Production Manager,Yes,1,5,17,2,4.5
+U0260,Sourcing,Sourcing Coordinator,Yes,5,9,10,0,4.6
+U0261,Merchandising,Merchandising Manager,No,3,5,4,4,3.5
+U0262,Product Development,Assistant Developer,Yes,5,8,6,3,3.5
+U0263,Production,Production Manager,No,6,7,4,3,2.7
+U0264,Production,Production Manager,Yes,6,11,7,3,4.6
+U0265,Sourcing,Sourcing Coordinator,Yes,5,10,14,1,3.9
+U0266,Sourcing,Supplier Manager,Yes,5,6,11,3,4.5
+U0267,Product Development,Developer,Yes,5,9,10,1,3.8
+U0268,Sourcing,Sourcing Coordinator,No,1,3,9,4,3.4
+U0269,Sourcing,Sourcing Coordinator,Yes,4,8,11,2,4.7
+U0270,Product Development,Assistant Developer,No,1,2,2,4,4.2
+U0271,Production,Production Assistant,Yes,8,15,19,1,4.5
+U0272,Production,Production Manager,Yes,9,14,8,0,5.0
+U0273,Sourcing,Supplier Manager,No,2,3,5,2,4.4
+U0274,Product Development,Senior Developer,Yes,8,15,18,1,5.0
+U0275,Merchandising,Planner,Yes,5,12,19,3,4.2
+U0276,Product Development,Assistant Developer,Yes,5,8,17,0,4.6
+U0277,Merchandising,Buyer,Yes,3,5,7,1,4.3
+U0278,Sourcing,Supplier Manager,No,2,2,3,3,3.1
+U0279,Sourcing,Supplier Manager,No,0,2,7,4,3.9
+U0280,Merchandising,Merchandising Manager,Yes,7,8,19,3,3.9
+U0281,Sourcing,Supplier Manager,Yes,2,4,12,1,4.7
+U0282,Sourcing,Sourcing Coordinator,Yes,6,10,5,1,4.1
+U0283,Merchandising,Planner,Yes,5,8,13,1,4.1
+U0284,Product Development,Developer,No,4,6,3,3,3.7
+U0285,Product Development,Developer,Yes,4,6,18,2,4.5
+U0286,Production,Production Manager,Yes,6,9,8,0,4.1
+U0287,Production,Production Assistant,Yes,6,9,5,1,5.0
+U0288,Product Development,Developer,No,1,1,8,3,3.8
+U0289,Sourcing,Sourcing Coordinator,Yes,2,6,15,3,4.6
+U0290,Merchandising,Buyer,Yes,6,11,12,0,4.7
+U0291,Merchandising,Planner,Yes,5,6,18,3,4.2
+U0292,Product Development,Developer,Yes,9,14,17,2,4.6
+U0293,Product Development,Senior Developer,No,3,4,3,4,3.7
+U0294,Production,Production Manager,Yes,3,4,5,3,4.3
+U0295,Product Development,Senior Developer,Yes,7,10,13,0,4.5
+U0296,Sourcing,Supplier Manager,Yes,4,7,13,1,4.0
+U0297,Product Development,Assistant Developer,Yes,3,6,6,3,4.2
+U0298,Product Development,Developer,No,1,1,4,2,3.2
+U0299,Sourcing,Supplier Manager,Yes,2,3,19,2,4.7
+U0300,Production,Production Assistant,Yes,3,4,5,3,4.2
+U0301,Merchandising,Buyer,Yes,4,7,18,3,4.2
+U0302,Sourcing,Sourcing Coordinator,Yes,4,7,8,1,4.9
+U0303,Product Development,Senior Developer,Yes,5,10,8,2,4.0
+U0304,Merchandising,Merchandising Manager,Yes,4,11,6,2,3.7
+U0305,Production,Production Manager,Yes,7,8,5,2,3.5
+U0306,Production,Production Manager,Yes,4,8,14,2,5.0
+U0307,Production,Production Manager,Yes,5,8,17,1,4.9
+U0308,Product Development,Developer,Yes,6,7,8,2,3.9
+U0309,Production,Production Manager,Yes,5,7,18,0,5.0
+U0310,Merchandising,Buyer,No,1,6,9,2,3.6
+U0311,Merchandising,Merchandising Manager,Yes,4,5,16,3,4.7
+U0312,Product Development,Assistant Developer,No,0,0,8,5,3.5
+U0313,Production,Production Manager,Yes,5,7,18,2,4.6
+U0314,Production,Production Manager,No,4,6,9,4,3.0
+U0315,Production,Production Assistant,No,2,2,5,3,3.5
+U0316,Sourcing,Sourcing Coordinator,Yes,8,10,11,3,4.3
+U0317,Product Development,Assistant Developer,Yes,4,7,16,0,4.2
+U0318,Production,Production Manager,Yes,4,5,15,2,3.9
+U0319,Merchandising,Planner,Yes,7,11,12,3,4.6
+U0320,Product Development,Assistant Developer,No,3,4,4,5,3.6
+U0321,Sourcing,Sourcing Coordinator,Yes,3,7,19,1,3.9
+U0322,Production,Production Assistant,Yes,4,9,11,3,3.6
+U0323,Production,Production Assistant,Yes,4,9,6,3,4.9
+U0324,Sourcing,Sourcing Coordinator,Yes,4,6,18,1,4.4
+U0325,Merchandising,Buyer,Yes,6,11,6,2,3.0
+U0326,Merchandising,Planner,Yes,6,8,6,3,4.2
+U0327,Merchandising,Buyer,Yes,5,11,19,1,4.2
+U0328,Sourcing,Supplier Manager,Yes,2,8,11,0,4.0
+U0329,Sourcing,Supplier Manager,Yes,6,6,12,2,4.6
+U0330,Production,Production Assistant,No,1,1,8,4,3.7
+U0331,Merchandising,Planner,Yes,4,5,14,1,4.5
+U0332,Production,Production Manager,Yes,7,7,13,3,3.9
+U0333,Sourcing,Sourcing Coordinator,Yes,2,5,11,1,5.0
+U0334,Product Development,Assistant Developer,Yes,2,4,16,2,5.0
+U0335,Sourcing,Sourcing Coordinator,No,4,6,9,3,3.1
+U0336,Sourcing,Supplier Manager,No,2,3,7,2,3.3
+U0337,Merchandising,Planner,Yes,5,8,13,0,5.0
+U0338,Merchandising,Merchandising Manager,Yes,7,9,19,3,4.2
+U0339,Production,Production Manager,Yes,5,8,16,0,3.6
+U0340,Merchandising,Planner,Yes,4,5,9,2,3.9
+U0341,Production,Production Assistant,Yes,4,8,13,0,4.9
+U0342,Merchandising,Merchandising Manager,Yes,6,11,12,3,4.8
+U0343,Production,Production Assistant,No,1,1,8,4,2.8
+U0344,Product Development,Assistant Developer,Yes,8,11,17,1,4.3
+U0345,Production,Production Assistant,Yes,8,13,6,0,4.8
+U0346,Product Development,Developer,Yes,5,7,19,1,4.3
+U0347,Production,Production Assistant,No,3,4,2,5,3.5
+U0348,Sourcing,Supplier Manager,Yes,8,13,14,2,4.2
+U0349,Sourcing,Sourcing Coordinator,No,1,1,9,4,3.2
+U0350,Merchandising,Merchandising Manager,No,3,5,5,4,3.5
+U0351,Production,Production Assistant,No,3,5,5,2,3.5
+U0352,Product Development,Senior Developer,Yes,8,11,18,1,4.7
+U0353,Production,Production Assistant,Yes,5,9,6,1,4.9
+U0354,Merchandising,Merchandising Manager,No,2,3,2,2,3.9
+U0355,Product Development,Assistant Developer,Yes,6,11,7,0,5.0
+U0356,Product Development,Assistant Developer,Yes,1,5,18,0,4.4
+U0357,Product Development,Assistant Developer,Yes,5,5,10,1,4.4
+U0358,Production,Production Manager,Yes,2,6,19,1,4.2
+U0359,Sourcing,Sourcing Coordinator,Yes,7,8,16,1,4.9
+U0360,Sourcing,Supplier Manager,No,2,2,2,2,3.6
+U0361,Sourcing,Supplier Manager,Yes,5,7,5,1,3.8
+U0362,Merchandising,Merchandising Manager,Yes,4,8,7,0,4.5
+U0363,Production,Production Assistant,No,0,3,2,4,3.3
+U0364,Sourcing,Sourcing Coordinator,Yes,4,6,17,0,4.9
+U0365,Production,Production Assistant,Yes,3,4,14,0,4.3
+U0366,Sourcing,Sourcing Coordinator,No,1,1,9,4,3.3
+U0367,Sourcing,Supplier Manager,Yes,4,9,5,0,4.4
+U0368,Merchandising,Buyer,Yes,4,5,14,2,4.8
+U0369,Product Development,Senior Developer,No,2,3,3,4,4.2
+U0370,Product Development,Senior Developer,Yes,5,6,12,3,4.4
+U0371,Production,Production Assistant,No,1,2,2,2,2.9
+U0372,Merchandising,Buyer,Yes,6,10,6,2,4.5
+U0373,Sourcing,Supplier Manager,Yes,6,11,5,3,4.9
+U0374,Product Development,Senior Developer,No,5,6,7,3,3.4
+U0375,Merchandising,Buyer,Yes,5,7,8,2,4.3
+U0376,Sourcing,Supplier Manager,Yes,9,10,14,0,3.7
+U0377,Product Development,Developer,Yes,10,11,8,2,3.8
+U0378,Merchandising,Buyer,Yes,5,9,9,0,4.4
+U0379,Production,Production Assistant,No,4,5,8,3,2.8
+U0380,Merchandising,Planner,No,0,2,8,5,3.7
+U0381,Product Development,Developer,No,1,1,3,3,3.2
+U0382,Merchandising,Planner,Yes,6,8,16,0,4.0
+U0383,Product Development,Developer,Yes,6,9,5,2,5.0
+U0384,Merchandising,Buyer,Yes,4,6,13,3,4.1
+U0385,Sourcing,Supplier Manager,Yes,3,3,8,3,4.6
+U0386,Merchandising,Merchandising Manager,Yes,3,4,7,2,5.0
+U0387,Merchandising,Buyer,Yes,2,9,9,1,5.0
+U0388,Sourcing,Supplier Manager,No,1,2,9,3,3.6
+U0389,Merchandising,Buyer,Yes,5,8,9,2,4.6
+U0390,Merchandising,Buyer,Yes,8,11,7,2,3.9
+U0391,Merchandising,Planner,Yes,7,13,14,0,4.5
+U0392,Production,Production Manager,Yes,6,9,10,3,3.8
+U0393,Product Development,Assistant Developer,No,2,2,4,3,3.7
+U0394,Sourcing,Supplier Manager,Yes,10,14,19,3,4.2
+U0395,Sourcing,Supplier Manager,Yes,4,8,11,2,3.5
+U0396,Merchandising,Planner,Yes,4,11,16,1,4.0
+U0397,Sourcing,Sourcing Coordinator,Yes,4,9,6,1,4.3
+U0398,Merchandising,Merchandising Manager,Yes,4,8,10,2,4.4
+U0399,Sourcing,Supplier Manager,Yes,1,3,17,3,4.1
+U0400,Merchandising,Merchandising Manager,Yes,2,6,10,0,4.2
+U0401,Product Development,Senior Developer,Yes,4,10,7,0,4.6
+U0402,Production,Production Assistant,No,1,1,5,2,3.5
+U0403,Production,Production Assistant,Yes,10,15,11,0,4.7
+U0404,Sourcing,Supplier Manager,Yes,2,4,12,1,4.1
+U0405,Sourcing,Supplier Manager,Yes,4,5,16,0,4.2
+U0406,Sourcing,Supplier Manager,No,2,3,4,4,3.3
+U0407,Merchandising,Buyer,No,0,3,9,3,3.3
+U0408,Sourcing,Supplier Manager,Yes,4,6,18,3,4.7
+U0409,Production,Production Assistant,No,1,1,9,5,3.7
+U0410,Product Development,Developer,Yes,3,5,16,3,4.9
+U0411,Sourcing,Supplier Manager,Yes,2,5,6,1,4.3
+U0412,Product Development,Developer,Yes,7,8,5,2,4.5
+U0413,Merchandising,Merchandising Manager,No,3,4,7,5,3.4
+U0414,Production,Production Assistant,Yes,5,7,10,0,4.1
+U0415,Product Development,Assistant Developer,No,2,4,4,4,3.2
+U0416,Production,Production Manager,No,2,2,6,5,2.5
+U0417,Product Development,Developer,Yes,7,8,11,0,5.0
+U0418,Merchandising,Buyer,Yes,4,8,6,3,4.1
+U0419,Production,Production Assistant,No,3,3,7,3,3.6
+U0420,Product Development,Assistant Developer,Yes,5,6,16,1,3.4
+U0421,Sourcing,Sourcing Coordinator,Yes,4,4,11,1,5.0
+U0422,Sourcing,Sourcing Coordinator,Yes,8,14,5,0,3.6
+U0423,Merchandising,Merchandising Manager,Yes,8,9,17,3,3.9
+U0424,Merchandising,Planner,No,3,5,9,2,3.7
+U0425,Merchandising,Buyer,Yes,3,3,7,3,4.6
+U0426,Sourcing,Sourcing Coordinator,No,5,5,2,4,3.2
+U0427,Sourcing,Supplier Manager,Yes,2,7,18,1,3.5
+U0428,Merchandising,Planner,No,2,4,7,5,3.4
+U0429,Product Development,Assistant Developer,Yes,10,14,14,3,4.2
+U0430,Product Development,Developer,Yes,5,9,15,0,4.6
+U0431,Sourcing,Sourcing Coordinator,Yes,3,6,15,0,4.0
+U0432,Sourcing,Supplier Manager,No,3,5,4,3,2.8
+U0433,Product Development,Developer,Yes,6,8,18,1,4.2
+U0434,Production,Production Assistant,Yes,4,7,8,0,3.8
+U0435,Production,Production Manager,Yes,1,3,7,0,4.0
+U0436,Sourcing,Supplier Manager,Yes,1,4,7,3,3.9
+U0437,Sourcing,Sourcing Coordinator,No,2,2,6,2,3.2
+U0438,Merchandising,Buyer,Yes,7,9,14,0,3.8
+U0439,Merchandising,Planner,Yes,5,8,13,1,4.7
+U0440,Product Development,Senior Developer,Yes,8,9,7,1,4.0
+U0441,Merchandising,Buyer,No,2,4,6,3,3.4
+U0442,Product Development,Senior Developer,Yes,7,8,10,1,4.4
+U0443,Merchandising,Planner,No,4,6,6,5,3.5
+U0444,Production,Production Manager,Yes,5,9,19,3,4.3
+U0445,Merchandising,Merchandising Manager,Yes,1,5,14,3,4.2
+U0446,Production,Production Manager,Yes,8,13,5,1,4.2
+U0447,Production,Production Manager,Yes,5,9,11,3,4.9
+U0448,Merchandising,Planner,Yes,4,8,12,2,3.8
+U0449,Product Development,Senior Developer,Yes,7,9,17,3,4.7
+U0450,Production,Production Manager,Yes,5,6,14,0,4.3
+U0451,Merchandising,Merchandising Manager,No,5,5,7,3,3.6
+U0452,Merchandising,Planner,Yes,3,4,16,0,4.8
+U0453,Merchandising,Merchandising Manager,No,2,3,4,2,3.9
+U0454,Sourcing,Sourcing Coordinator,Yes,3,4,11,0,4.3
+U0455,Sourcing,Supplier Manager,Yes,2,4,6,0,4.2
+U0456,Merchandising,Planner,No,1,2,6,4,3.1
+U0457,Sourcing,Sourcing Coordinator,Yes,6,8,6,3,4.4
+U0458,Production,Production Manager,Yes,4,6,6,2,4.4
+U0459,Sourcing,Supplier Manager,No,2,4,8,5,3.2
+U0460,Merchandising,Planner,Yes,4,10,7,0,3.0
+U0461,Sourcing,Supplier Manager,No,2,3,4,3,3.2
+U0462,Sourcing,Supplier Manager,Yes,4,6,11,3,4.2
+U0463,Merchandising,Merchandising Manager,Yes,6,7,7,3,4.6
+U0464,Merchandising,Merchandising Manager,Yes,3,7,12,2,4.3
+U0465,Production,Production Manager,Yes,9,10,9,3,3.8
+U0466,Sourcing,Sourcing Coordinator,No,3,3,8,4,4.0
+U0467,Merchandising,Merchandising Manager,Yes,1,6,15,3,4.0
+U0468,Product Development,Senior Developer,No,1,2,4,4,4.0
+U0469,Product Development,Senior Developer,Yes,1,5,16,3,5.0
+U0470,Merchandising,Merchandising Manager,Yes,4,5,7,0,5.0
+U0471,Sourcing,Supplier Manager,Yes,4,5,5,3,4.8
+U0472,Merchandising,Buyer,Yes,5,7,16,3,4.0
+U0473,Merchandising,Merchandising Manager,Yes,4,5,17,0,4.9
+U0474,Production,Production Manager,Yes,5,8,16,2,3.9
+U0475,Production,Production Manager,No,3,3,3,3,3.6
+U0476,Production,Production Assistant,Yes,9,11,7,2,4.1
+U0477,Production,Production Manager,Yes,5,11,12,3,3.9
+U0478,Product Development,Senior Developer,Yes,5,8,7,3,4.6
+U0479,Product Development,Developer,Yes,7,10,12,1,4.7
+U0480,Merchandising,Buyer,No,3,4,9,3,4.1
+U0481,Product Development,Assistant Developer,Yes,7,11,14,0,4.3
+U0482,Product Development,Assistant Developer,Yes,2,5,11,3,4.1
+U0483,Production,Production Assistant,Yes,5,9,16,2,4.1
+U0484,Production,Production Assistant,Yes,7,10,15,2,4.3
+U0485,Production,Production Manager,Yes,4,10,7,2,3.8
+U0486,Sourcing,Sourcing Coordinator,Yes,4,9,12,2,4.3
+U0487,Production,Production Assistant,No,4,5,5,3,3.8
+U0488,Sourcing,Supplier Manager,Yes,3,8,6,1,3.9
+U0489,Product Development,Developer,Yes,5,6,8,0,4.4
+U0490,Sourcing,Sourcing Coordinator,No,3,4,6,3,2.8
+U0491,Production,Production Manager,Yes,1,3,17,2,4.1
+U0492,Sourcing,Supplier Manager,Yes,11,17,16,0,4.6
+U0493,Product Development,Senior Developer,Yes,5,6,11,1,4.9
+U0494,Sourcing,Sourcing Coordinator,Yes,8,8,7,2,4.5
+U0495,Product Development,Senior Developer,Yes,3,5,19,1,3.6
+U0496,Sourcing,Sourcing Coordinator,Yes,8,11,10,0,4.3
+U0497,Sourcing,Sourcing Coordinator,No,3,5,2,4,3.9
+U0498,Merchandising,Buyer,No,2,2,4,3,3.8
+U0499,Product Development,Developer,Yes,4,8,12,3,4.2
