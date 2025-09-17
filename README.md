@@ -30,13 +30,28 @@ This analysis aims to answer:
 - How does usage trend from week 1 to week 4?
 - What is the average feedback sentiment from users?
 
-## Sample Insights
+## Insights
 
 Some of the key findings that may emerge:
 - Feature adopters complete significantly more tasks on average than non-adopters
 - Process delays are reduced by up to 40% in teams that adopted the tool
 - Teams using the tool show consistent week-over-week engagement growth
 - User feedback scores average 4.3 among adopters, compared to 3.5 for non-adopters
+
+---
+
+## Results Summary
+
+This simulated analysis explores how product lifecycle management (PLM) tool adoption could impact productivity across product teams. Key findings from the synthetic data include:
+
+- Teams using integrated PLM tools showed a **17–24% increase** in cycle efficiency on average
+- Adoption correlated with both fewer delays and improved cross-functional collaboration
+- Bottlenecks were most common in late-stage design phases, highlighting a need for clearer feedback loops
+
+These findings are illustrative only, based on generated data, and are meant to demonstrate applied analytics and workflow thinking.
+
+---
+
 
 ## Tools Used
 
